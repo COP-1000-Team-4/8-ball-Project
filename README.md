@@ -4,7 +4,7 @@
 
  ___
 
-### Set up
+## Set up
 
  To run the program, first install an IDE. We reccomend [Visual Studio Code](https://code.visualstudio.com/download).
 
