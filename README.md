@@ -2,8 +2,6 @@
 
  Project repo for 2023-2024 COP-1000 course Team 3
 
- ___
-
 ## Set up
 
  To run the program, first install an IDE. We reccomend [Visual Studio Code](https://code.visualstudio.com/download).
