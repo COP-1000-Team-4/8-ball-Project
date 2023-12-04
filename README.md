@@ -1,6 +1,6 @@
 # Team-3-Project
 
- Project repo for 2023-2024 COP-1000 course Team 3
+ #### Project repo for Team 3's 2023-2024 COP-1000 course
 
 ## Set up
 
@@ -10,6 +10,8 @@
 
  Next, set up the GCC compiler following [this](https://www.linkedin.com/pulse/installing-gcc-compiler-windows-run-c-program-gitbash-david-michael) guide.
 
-### KNOWN ISSUES:
+ Finally, run the program in VSCode using the GCC builder. Outputs will be in the terminal.
 
-N/A
+## Known Issues:
+
+* rarely, a suffix will not be added to the response output. This is likely because ```srand``` takes in a 32 bit value, and ```time.h``` returns a 64 bit value, occasionally causing problems.
